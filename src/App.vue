@@ -14,7 +14,7 @@ const post: Post = {
   conent:
     "These languages are the backbone of every website, defining structure, content, and presentation.",
   creator: {
-    avatar: "/assets/images/image-avatar.webp",
+    avatar: "assets/images/image-avatar.webp",
     name: "Greg Hooper",
   },
   tags: ["Learning"],
