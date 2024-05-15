@@ -9,7 +9,7 @@ import BlogItem from "./components/BlogItem.vue";
 import { Post } from "./models/post";
 
 const post: Post = {
-  image: "/assets/images/illustration-article.svg",
+  image: "assets/images/illustration-article.svg",
   title: "HTML & CSS foundations",
   conent:
     "These languages are the backbone of every website, defining structure, content, and presentation.",
